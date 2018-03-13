@@ -9,7 +9,7 @@ We are translating a 100-day "starter kit" for families who have a child who jus
 
 Instructions:
 Every page of the translated document is in a separate file with a corresponding issue of "needs translation review." Once you have edited the review, comment on the issue that you have edited that page.
-*If you would find reviewing the original English
+*If you would find reviewing the original English version helpful, they can be found in the English pages folder.*
 
 Prizes: 
 Every person who edits one page will recieve a Connect project sticker! The next time you are in the CRI, come to office XX to pick it up! 
