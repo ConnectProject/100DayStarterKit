@@ -1,0 +1,20 @@
+# Page 56
+### Boit violet
+### Sous titre: Comprendre le style d'apprentissage de votre enfant de «Est-ce que mon enfant a l'autisme?» 
+### par Wendy Stone, PhD, and Theresa Foy DiGeronimo, M.Ed
+
+Paragraphe: Trouver le bon programme d'intervention commence par une compréhension du style d'apprentissage de votre enfant, ce qui est très différent du style d'apprentissage des autres enfants. Vous réalisez probablement ceci comme vous avez essayé d'obtenir que votre enfant avec l'autisme agite les mêmes stratégies d'enseignement que vous avez utilisées avec vos autres enfants - c'est-à-dire, démontrant l'action, fournissant une invite verbale en disant "vague au revoir". "Et même en déplaçant sa main pour montrer ce qu'il faut faire. Mais lorsque cette approche n'a pas semblé fonctionner, vous avez probablement commencé à penser que votre enfant était entêté ou peu coopératif. Après tout, vous enseignez des compétences simples en utilisant des méthodes qui ont très bien fonctionné pour votre autre enfants. Mais la réalité est que votre enfant n'est pas mauvais; il a juste un style d'apprentissage différent de celui de vos autres enfants. La différence dans les styles d'apprentissage n'est pas évidente seulement lorsque vous essayez d'enseigner aux enfants autistes; c'est aussi évident dans la façon dont ils apprennent (ou n'apprennent pas) par eux-mêmes. Il y a beaucoup de choses que les enfants sans autisme semblent apprendre sans effort, sans être enseignés, mais que les enfants avec un utisme ne se réveillent pas aussi facilement. Par exemple, les jeunes enfants sans autisme apprennent en quelque sorte, sans enseignement explicite, comment utiliser un geste de pointage pour vous faire savoir ce qu'ils veulent ou pour indiquer où ils veulent que vous regardiez. Ils apprennent à suivre votre point de vue ou votre regard pour comprendre ce que vous regardez ou ce qui vous intéresse. Ils découvrent par eux-mêmes comment utiliser le contact visuel et les expressions faciales pour exprimer leurs sentiments - ainsi que pour comprendre la signification de vos expirions faciales et le ton de votre voix. Les comportements social-communicatifs et les compétences comme celles-ci ne viennent pas aussi naturellement aux jeunes enfants autistes et doivent souvent être enseignés explicitement.
+## Titre: Assembler votre équipe
+Paragraphe: L'équipe de votre enfant sera composée de nombreux membres différents. Ils vous aideront à aborder tous les aspects de la vie de votre enfant et vous aideront à prendre des décisions concernant le traitement, l'éducation, les loisirs et la santé de votre enfant. Voici quelques informations utiles sur la façon de rassembler ce groupe de professionnels.
+
+### Sous titre: Équipe médicale
+Paragraphe: Votre enfant devrait être pris en charge par un pédiatre qui comprend les problèmes de développement et qui servira de fournisseur de soins primaires pour votre enfant. Selon les besoins de votre enfant, d'autres membres de l'équipe médicale peuvent inclure un neurologue, un généticien, un pédiatre du développement, un gastro-entérologue, un psychiatre ou un nutritionniste.
+
+### Sous titre: Équipe d'intervention intensive
+Paragraphe: ABA, ESDM, Floortime, PRT, RDI, SCERTS, TEACCH et VB sont autant d'interventions intensives. En fonction de l'intensité de l'intervention primaire, il peut y avoir un chef d'intervention et plusieurs prestataires ou thérapeutes impliqués dans la fourniture du traitement tel que structuré par le leader.
+
+### Sous titre: Équipe des services associés
+Paragraphe:L'orthophonie, l'ergothérapie, la physiothérapie, la thérapie d'intégration sensorielle et l'enseignement des compétences sociales sont tous des services connexes. Tous les thérapeutes travaillant avec votre enfant devraient communiquer fréquemment et utiliser une méthode d'enseignement cohérente.
+
+### Sous titre: Embaucher des thérapeutes
+Paragraphe: Pour les parents qui embauchent de nouveaux thérapeutes, vous pouvez envisager le candidat comme vous le feriez pour tout autre demandeur d'emploi et gérer la situation en conséquence. Demander des CV.
