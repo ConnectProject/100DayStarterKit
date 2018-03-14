@@ -1,6 +1,5 @@
 # Page 1 / Page 2
-## Titre: 100 Jour Kit pour les familles nouvellement diagnostiquées de
-## jeunes enfants
+## Titre: 100 Jour Kit pour les familles nouvellement diagnostiquées de jeunes enfants
 Paragraphe: Une trousse d'outils pour aider les familles de jeunes
 enfants en obtenant l'information critique dont ils ont besoin dans le
 100 premiers jours après un diagnostic d'autisme. 
