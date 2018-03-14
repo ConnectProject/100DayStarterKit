@@ -1,0 +1,8 @@
+## Titre: Conclusion
+Paragraphe: Le temps après un diagnostic d'autisme est probablement une période difficile pour vous. Il est important de se rappeler que vous n'êtes pas seul. D'autres ont emprunté cette route avant vous. Tu es plus fort que tu ne le penses. Vous apprendrez comment surmonter les défis et mieux répondre aux besoins de votre enfant afin qu'il puisse vivre aussi pleinement et indépendamment d'une vie que possible. Vous commencerez aussi à expérimenter le monde d'une nouvelle manière; vos priorités peuvent changer et vous rencontrerez des gens incroyables qui se consacrent à aider les personnes autistes à réussir. Gardez à l'esprit que de grands progrès sont réalisés chaque jour dans le domaine de la recherche sur l'autisme, y compris de nombreuses études portant sur de nouveaux traitements et interventions.
+
+Paragraphe: Il existe une multitude de ressources et de trousses d'outils sur le site Web d'Autism Speaks pour vous aider à naviguer avec votre enfant. Le kit de 100 jours n'est que le début. De plus, l'équipe d'intervention en autisme est disponible pour répondre à vos questions et vous mettre en contact avec des ressources. S'il vous plaît envoyer un courriel à familyservices@autismspeaks.org et ils sont heureux de vous aider à chaque étape du chemin.
+
+Paragraphe: S'il vous plaît, n'hésitez pas à tendre la main
+
+###### Sous paragraphe: Votre avis est important pour nous. Pour partager vos commentaires sur le kit - Qu'est-ce qui vous a été utile? Quelles informations supplémentaires pourraient être incluses? envoyez vos commentaires à familyservices@AutismSpeaks.org avec le mot "feedback" dans la ligne d'objet.
