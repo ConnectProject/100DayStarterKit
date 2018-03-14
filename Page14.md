@@ -7,24 +7,24 @@ Ce qui suit est adapté de Sally Ozonoff, de Geraldine Dawson et de James McPart
 
 Tout comme les personnes autistes ont diverses difficultés, ils ont aussi des forces distinctes. Certaines des forces que les personnes atteintes d'autisme peuvent inclure:
 
-⋅⋅*Capacité à comprendre des concepts concrets, règles et sequences
+⋅⋅* Capacité à comprendre des concepts concrets, règles et sequences
 
-⋅⋅*Fortes capacités de mémoire à long terme
+⋅⋅* Fortes capacités de mémoire à long terme
 
-⋅⋅*Compétences mathématiques
+⋅⋅* Compétences mathématiques
 
-⋅⋅*Compétences informatiques
+⋅⋅* Compétences informatiques
 
-⋅⋅*Capacité musicale
+⋅⋅* Capacité musicale
 
-⋅⋅*Capacité artistique
+⋅⋅* Capacité artistique
 
-⋅⋅*Capacité à penser de manière visuelle
+⋅⋅* Capacité à penser de manière visuelle
 
-⋅⋅*Possibilité de décoder le langage écrit à un stade précoce âge (Cette capacité est appelée hyperlexie - certains des enfants atteints d'autisme peuvent décoder écrit langue plus tôt qu'ils ne peuvent comprendre langue écrite.)
+⋅⋅* Possibilité de décoder le langage écrit à un stade précoce âge (Cette capacité est appelée hyperlexie - certains des enfants atteints d'autisme peuvent décoder écrit langue plus tôt qu'ils ne peuvent comprendre langue écrite.)
 
-⋅⋅*L'honnêteté - parfois à la faute
+⋅⋅* L'honnêteté - parfois à la faute
 
-⋅⋅*Capacité d'être extrêmement concentré - s'ils sont travailler sur une activité préférée
+⋅⋅* Capacité d'être extrêmement concentré - s'ils sont travailler sur une activité préférée
 
-⋅⋅*Excellent sens de la direction
+⋅⋅* Excellent sens de la direction
