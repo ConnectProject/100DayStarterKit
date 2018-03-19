@@ -1,18 +1,22 @@
 # Page 3 / Page 4 / Page 5
-## A propos de ce kit: 
-Le kit Autism Speaks 10 0 Day est un outil conçu aider les familles des enfants récemment diagnostiqués avec l'autisme pendant la période critique suivant une diagnostic de l'autisme. Le kit comprend des informations de base sur l'autisme et ses symptômes, conseils pour faire face à le diagnostic d'un enfant, des informations sur les thérapies et traitements, des formes pour aider les parents à s'organiser, liste complète des ressources et plus.
-Le Kit 100 Day a été publié en 2008 et un second version a été publié en 2011. Il a été créé par **le Autism Speaks le personnel des services à la famille** en conjonction avec un conseiller professionnel et parent comité et le comité des services à la famille.
-## Remerciements: 
-Autism Speaks aimerait remercier spécialement le Comité consultatif des parents pour le temps et les efforts ils ont mis en revue le Kit 100 Day.
 
-**Comité consultatif des parents du kit de 100 jours**
+## A propos de ce guide: 
+
+Le guide des 100 premier jours d'Autism Speaks est un outil conçu aider les familles de jeunes enfants pendant la période critique qui suit le diagnostic d'autisme. Le guide comprend des informations de base sur l'autisme et ses symptômes, des conseils pour faire face au diagnostic d'un enfant, des informations sur les thérapies et traitements, des manières pour aider aux parents à s'organiser, et une liste complète des ressources.
+
+Le guide des 100 premiers jours a été publié pour la première fois en 2008 et ensuite une deuxième version a été publiée en 2011. Il a été créé par **le personnel des services à la famille de l'association Autism Speaks** en collaboration avec un conseil de professionnels, un commité de parents et le comité des services à la famille.
+
+## Remerciements: 
+Autism Speaks aimerait remercier spécialement le Comité consultatif des parents pour le temps et les efforts qu'ils ont investis dans la construction et révision de ce guide des 100 premiers jours.
+
+**Comité consultatif des parents du guide des 100 premiers jours**
 
 (Les noms)
 
-**Comité consultatif professionnel de 100 jours**
+**Comité consultatif professionnel du guide des 100 premiers jours**
 
 Les noms et les titres (page 4)
 
-**Autism Speaks remercie les personnes suivantes dont les généreuses contributions ont permis de financer cette trousse de 100 jours pour les familles nouvellement diagnostiquées de jeunes enfants.**
+**Autism Speaks remercie les personnes suivantes dont les contributions généreuses ont permis de financer ce guide des 100 premiers jours pour les familles de jeunes enfants nouvellement diagnostiqués.**
 
-(Photos des marques de les enterprises qui donnent d’argent)
+(Photos des marques de les enterprises qui ont financé le projet)
