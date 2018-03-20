@@ -6,7 +6,7 @@ Paragraphe: Ce guide cherche à aider les familles de jeunes
 enfants qui viennent d'obtenir un diagnostique d'autisme. Il contient des
 informations critiques pour les 100 premiers jours après le diagnostique.
 
-Sous-paragraphe: Speaks ne fournit pas de conseils ou de services médicaux ou
+Sous-paragraphe: Autism Speaks ne fournit pas de conseils ou de services médicaux ou
 juridiques. Au contraire, Autism Speaks fournit informations générales
 sur l'autisme en tant que service à la communauté. Les informations
 fournies dans ce guide ne sont pas des recommandation officielles, l'approbation
