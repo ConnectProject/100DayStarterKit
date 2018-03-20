@@ -21,4 +21,4 @@ Least restrictive environment
 
 **Assistant social** est un spécialiste qualifié des besoins sociaux, émotionnels et financiers des familles et des patients. Les travailleurs sociaux aident souvent les familles et les patients à obtenir les services qui leur ont été prescrits.
 
-**Attention conjointe** est le processus de partage de son expérience d'observation d'un objet ou d'un événement, en suivant un regard ou en 
+**Attention conjointe** est le processus de partage de son expérience d'observation d'un objet ou d'un événement, en suivant un regard ou en pointant des gestes. Critique pour le développement social, l'acquisition du langage, le développement cognitif. La déficience dans l'attention conjointe est un déficit majeur de TSA.
