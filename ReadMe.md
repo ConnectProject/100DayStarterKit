@@ -17,7 +17,7 @@ Every page of the translated document is in a separate file in the <>Code sectio
   4) Once edited, review the changes by clicking 'Preview changes' where you can see the formatting and the changes you've made.
   5) Comment on the issue that you have edited that page. I will then 'close' the issue and that page will be finished.
   
-*If you would find reviewing the original English version helpful, they can be found in the English pages folder.*
+*Note: This guide is intended to be used by French people so it requires more than just basic translation. Laws, culture, and educational practices also need to be made accurate and pertinent for French people. As such, if you see something that is false or inapplicable for France, please let us know in the comments of the issue.
 
 ###### Prizes: 
 Every person who edits one page will recieve a signature, premium, designed Connect project sticker! Contact me at aaron.engelberg@cri-paris.org for your sticker. You get a sticker! You get a sticker! Everybody gets STICKERS (after completing the translation)!!!!!
