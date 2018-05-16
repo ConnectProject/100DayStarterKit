@@ -5,11 +5,7 @@ Aaron Engelberg, 2018
 Translation of AutismSpeaks 100-day starter kit from English into French.
 
 ###### Preface:
-We are developing an open platform allowing persons with neuro disabilities – patients, etc – to better understand their condition and to find the best strategies to help. We will build a citizen platform around neuro disabilities issues . This platform should: Provide a protocol to connect individuals; Conservation of the data, its accessibility, security, and transparency; Help participants understand data, analysis and hypothesis testing; helping with issues of neurodevelopmental disabilities.
-
-To begin providing families and people with services, we are translating a 100-day "starter kit" for families who have a child who just recieved an autism spectrum diagnosis, from English to French. There are about 100 pages of the document that have been automatically Google translated and we need your help editing the final copies. Put your French skills to the test and beat Google Translate! Thank you for your help connecting people with disabilities to resources they need!
-
-Also, as a part of the project, we are also developing two applications- MaVoix and MaQuotidien- The first is an Augmentative and Alternative Communication (AAC) application for people who do not verbally communicate. Generally, this consists of symbols which the user can activate to construct sentences for communication. The second application will be a behavior tracker for chronicling the behavior of people with neurodevelopmental disabilities. Data on observable, measurable behavior is an essential component to Applied Behavioral Therapy (ABA); an effective therapy prescribed to this community in which the application will supplement, or stand in for in cases where ABA is not available.
+We are translating a 100-day "starter kit" for families who have a child who just recieved an autism spectrum diagnosis, from English to French. There are about 100 pages of the document that have been automatically Google translated and we need your help editing the final copies. Put your French skills to the test and beat Google Translate! Everyone who finishes 1 edited page will recieve a Connect project sticker. And the Top 3 editors will recieve a **25€ gift card *of their choice.*** Thank you for your help connecting people with disabilities to resources they need!
 
 ###### Instructions:
 Every page of the translated document is in a separate file in the <>Code section of github. Each corresponding page has an issue associated with it saying 'Page # - Translation Edit'.
@@ -23,4 +19,8 @@ Every page of the translated document is in a separate file in the <>Code sectio
   
 *Note: This guide is intended to be used by French people so it requires more than just basic translation. Laws, culture, and educational practices also need to be made accurate and pertinent for French people. As such, if you see something that is false or inapplicable for France, please let us know in the comments of the issue.*
 
-###### Thank you!
+###### Prizes: 
+Every person who edits one page will recieve a signature, premium, designed Connect project sticker! Contact me at aaron.engelberg@cri-paris.org for your sticker. You get a sticker! You get a sticker! Everybody gets STICKERS (after completing the translation)!!!!!
+Those who have translated the **Top 3 Most Pages** will recieve a 25€ gift card to a website *of their choice.*
+
+###### Thank you, and let the games begin!
