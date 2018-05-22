@@ -13,9 +13,10 @@ Every page of the translated document is in a separate file in the <>Code sectio
   *Note- if a page does not have an issue, that means that it is already edited and does not need to be edited again*
   2) Find the corresponding translation in <>Code and click the little pen in the upper righthand corner to edit the document.
   *Don't edit any .md formatting code, these are just there to make the text formatted once you click 'Preview Changes'*
-  3) If you want to review the original English, find the corresponding pages in the English folder.
-  4) Once edited, review the changes by clicking 'Preview changes' where you can see the formatting and the changes you've made.
-  5) Comment on the issue that you have edited that page. I will then 'close' the issue and that page will be finished.
+  3) We are trying to make the writing as inclusive as possible so please include both masculine and feminine subjects when possible! See page 21 for an example.
+  4) If you want to review the original English, find the corresponding pages in the English folder.
+  5) Once edited, review the changes by clicking 'Preview changes' where you can see the formatting and the changes you've made.
+  6) Comment on the issue that you have edited that page. I will then 'close' the issue and that page will be finished.
   *It would be amazing to know where and who is editing so please add your name and City/Country in the issue comment!*
   
 *Note: This guide is intended to be used by French people so it requires more than just basic translation. Laws, culture, and educational practices also need to be made accurate and pertinent for French people. As such, if you see something that is false or inapplicable for France, please let us know in the comments of the issue.*
